@@ -1,0 +1,6 @@
+H:\Workspaces\IdentNumbers\IdentNumbers\bin\Debug\IdentNumbers.exe.config
+H:\Workspaces\IdentNumbers\IdentNumbers\bin\Debug\IdentNumbers.exe
+H:\Workspaces\IdentNumbers\IdentNumbers\bin\Debug\IdentNumbers.pdb
+H:\Workspaces\IdentNumbers\IdentNumbers\obj\Debug\IdentNumbers.exe
+H:\Workspaces\IdentNumbers\IdentNumbers\obj\Debug\IdentNumbers.pdb
+H:\Workspaces\IdentNumbers\IdentNumbers\obj\Debug\IdentNumbers.csprojResolveAssemblyReference.cache
